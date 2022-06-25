@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Omitir anuncio</name>
+   <tag></tag>
+   <elementGuidId>0748bf44-3ba9-4790-86ee-3d230adc6835</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>button.ytp-ad-skip-button.ytp-button</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='skip-button:3a']/span/button</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>76ab7383-6f09-485b-a1b9-079063c7511f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ytp-ad-skip-button ytp-button</value>
+      <webElementGuid>ffc9a237-0f4c-4323-bc48-5d678c5667f5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Omitir anuncio</value>
+      <webElementGuid>74e6bc56-a962-4638-b54a-f086963a9d9a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;skip-button:3a&quot;)/span[@class=&quot;ytp-ad-skip-button-container&quot;]/button[@class=&quot;ytp-ad-skip-button ytp-button&quot;]</value>
+      <webElementGuid>9937bbe3-476b-4844-8435-48dee0755b03</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='skip-button:3a']/span/button</value>
+      <webElementGuid>3adb990f-f580-458e-a742-b6acaea5c595</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='hsglaser.com'])[2]/following::button[1]</value>
+      <webElementGuid>da609a96-bfc1-4e2c-93e5-cc21113edd19</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='¿Por qué este anuncio?'])[1]/following::button[2]</value>
+      <webElementGuid>bc0fa806-a746-4104-920f-bc7e32dcdd4a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Cambiar la cámara'])[1]/preceding::button[1]</value>
+      <webElementGuid>0d2d3f21-569b-4646-a25e-ece242a5e0b1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div/div[2]/span/button</value>
+      <webElementGuid>81395534-6f67-4cb2-ac78-5b476a371102</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[(text() = 'Omitir anuncio' or . = 'Omitir anuncio')]</value>
+      <webElementGuid>67d9b98a-f3e5-4d71-8c0f-14b8c7a9687b</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
